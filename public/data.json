@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "authorName": "Prosen Biswas",
+        "blogTitle": "2022 a Golden Year as JavaScript Moves to the Edge",
+        "blogCoverImage": "https://images.pexels.com/photos/4974915/pexels-photo-4974915.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "authorImage": "https://images.pexels.com/photos/16022632/pexels-photo-16022632.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "readTime": 25,
+        "readCount": 0,
+        "publishDate": "Jan 22 (30 days ago)"
+    },
+    {
+        "id": 2,
+        "authorName": "Showmik Das",
+        "blogTitle": "Common Beginner Mistakes with React",
+        "blogCoverImage": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "authorImage": "https://images.pexels.com/photos/16003676/pexels-photo-16003676.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "readTime": 10,
+        "readCount": 0,
+        "publishDate": "Feb 11 (22 days ago)"
+    },
+    {
+        "id": 3,
+        "authorName": "Manik Roy",
+        "blogTitle": "Why learn JavaScript libraries and frameworks in 2023",
+        "blogCoverImage": "https://images.pexels.com/photos/1438081/pexels-photo-1438081.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "authorImage": "https://images.pexels.com/photos/16018103/pexels-photo-16018103.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "readTime": 20,
+        "readCount": 0,
+        "publishDate": "Feb 13 (10 days ago)"
+    },
+    {
+        "id": 4,
+        "authorName": "Sulov Saha",
+        "blogTitle": "What Is Node.js: Common Use Cases and How to Install It",
+        "blogCoverImage": "https://images.pexels.com/photos/11035380/pexels-photo-11035380.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "authorImage": "https://images.pexels.com/photos/14300385/pexels-photo-14300385.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "readTime": 15,
+        "readCount": 0,
+        "publishDate": "Mar 10 (15 days ago)"
+    }
+]

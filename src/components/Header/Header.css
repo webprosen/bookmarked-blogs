@@ -1,0 +1,51 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding: 20px 0;
+}
+.header .menu a{
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.header .navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header .user-avator img{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-left: 50px;
+    display: inherit;
+    cursor: pointer;
+}
+.logo h2{
+    margin: initial;
+    padding: initial;
+    color: #6047EC;
+    font-size: 30px;
+}
+
+@media(max-width:500px){
+    .logo h2{
+        font-size: 16px;
+    }
+    .header .menu a{
+        font-size: 12px;
+    }
+    .header .user-avator img{
+        width: 35px;
+        height: 35px;
+        margin-left: 30px;
+    }
+    .header .menu a{
+        margin-left: 15px;
+    }
+}
